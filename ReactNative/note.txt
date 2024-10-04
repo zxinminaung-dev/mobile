@@ -1,0 +1,15 @@
+https://learn.reactnativeschool.com/
+monnaung.dev@gmail.com
+reactnative1995
+
+###Expo    
+monnaung_dev
+expo1995
+
+npm install expo-cli --global
+expo login
+expo init ProjectName
+npm start
+
+
+debug on simulator => Ctrl + M

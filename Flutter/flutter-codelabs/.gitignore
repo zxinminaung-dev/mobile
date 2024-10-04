@@ -1,0 +1,9 @@
+.DS_Store
+.packages
+
+# */**/android
+# */**/ios
+# */**/.gitignore
+*/**/.metadata
+
+.dart_tool/
